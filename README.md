@@ -1,1 +1,4 @@
-I have no idea what im doing
+Five Star Baseball
+==================
+
+This repository holds code for the [Five Star Baseball](http://fivestarbaseball.com).
